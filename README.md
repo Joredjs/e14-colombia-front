@@ -5,3 +5,10 @@ Proyecto de validación de los formatos E14 en las elecciones de Colombia - DEV
 ## Esttructura commits
 
 <https://www.conventionalcommits.org/en/v1.0.0/>
+
+
+## Creación
+
+```sh
+npx create-react-app {{appName}}
+```
